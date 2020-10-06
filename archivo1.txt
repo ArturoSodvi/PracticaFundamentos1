@@ -1,3 +1,4 @@
 Prueba de uso del repositorio practica 1
 Nombre completo: Arturo Pérez De La Cruz 
-Edad:
+Edad:30 
+Juegos Favoritos:
